@@ -1,7 +1,7 @@
 # Projeto com Feedback 01 - Machine learning em logística
 # Prevendo o Consumo de Energia de Carros Elétricos
 
-setwd("/home/mariobrum/repos/DSA/BigDataRAzure/Projeto_Feedback_1/")
+setwd("/home/mariobrum/repos/DSA/BigDataRAzure/Projeto_Feedback_1/") 
 
 # Instalando e carregando pacotes
 install.packages("readxl")
